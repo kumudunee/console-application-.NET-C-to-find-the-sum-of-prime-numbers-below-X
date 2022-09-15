@@ -8,6 +8,6 @@ Can you write a console application (.NET, C#) to find the sum of prime numbers 
 
 
 Answer 
-X = 0
-Y = 5
-Z = 5
+1. X = 0
+2. Y = 5
+3. Z = 5
